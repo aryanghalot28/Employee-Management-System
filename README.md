@@ -101,6 +101,6 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Aryan Gahlot
-Motilal Nehru College
-University of Delhi
+Aryan Ghalot
+Noida Institute of Engineering and Technology
+Greater Noida
